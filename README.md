@@ -1,6 +1,6 @@
 # WorldDemoInc-ReadME
 
-This organization is dedicated to the demolition and domination through means of mass mineral extraction and general large scaled operations.
+This organization is dedicated to the demolition and domination of minecraft worlds all over through means of mass mineral extraction and general large scaled operations.
 
 Most repositories held here will be made for mods which scripting is utilized such as Computercraft and OpenComputers.
 
