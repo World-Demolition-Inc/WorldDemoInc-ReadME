@@ -19,3 +19,8 @@ Remember, think destructive!
 -Captain Oppai
 
 Founder and Owner of World Demolition Inc.
+
+
+On a less serious note, I'd like to make it clear that this isn't a project I'll be super duper active on, whenever I work on my projects I'll either make a new repo or update one if it is already made. I'm also incredibly inexperienced with lua and in general with Computercraft, none of the projects you see posted by me will be super efficient, I'll try my best to document the scripts within a repo but I make no guarantees. The code will mostly work, I don't have faith that they will work a 100% but if people test the scripts out in their own environments and report their issues than I'll be able to up the likely hood of the script constantly working.
+
+I hope my projects and other contributer's projects are helpful to you, if you're interested than as always you can submit your own project!
